@@ -25,8 +25,8 @@ Pero basta de hablar de mi, si trabajas conmigo espera esto:
 
 
 Mis bases de programación estan basadas en:
-Desarrollo web
-Desarrollo Movil
+- Desarrollo web
+- Desarrollo Movil
 
 Con lenguajes de programación de alto nivel:
 - Python
