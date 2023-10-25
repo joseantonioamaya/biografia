@@ -1,62 +1,42 @@
-# Hola, bienvenido
+---
+
+# Bienvenido
 ![](https://res.cloudinary.com/www-ismyt-com/image/upload/v1628821310/IMAGENES/GITHUB/cover-mi_historia_tptjji.svg)
-Espero que este tiempo que dedicas a leer mi biografía te sirva para entender que como persona tienes un aliado estratégico en el desarrollo de tecnología para tu empresa.
-<br>
 
-Siempre voy al grano y me encanta solucionar problemas con código, sueño con ser uno de los mejores solucionadores de problemas para empresas.
-<br><br><br>
+Le agradezco su tiempo para explorar mi perfil, una inversión que promete conocimiento significativo en innovación tecnológica y colaboración estratégica. No soy un mero desarrollador de software; soy un socio tecnológico comprometido con catalizar el crecimiento y el éxito de su empresa. Con un enfoque pragmático y una dedicación inquebrantable para solucionar problemas, mi misión es convertirme en su activo más valioso en tecnología.
+
+## ¿Quién Soy?
+Directo, eficiente y vorazmente curioso, me especializo en abordar desafíos tecnológicos complejos. Mi visión trasciende la mera codificación; ambiciono ser una figura líder en la resolución de problemas tecnológicos en el escenario empresarial internacional.
+
 ![](https://res.cloudinary.com/www-ismyt-com/image/upload/v1628821733/IMAGENES/GITHUB/cover-inspiration-svg_w20zbj.svg)
-<br><br><br>
-No me interesa que tipo de cliente eres, que tipo de negocio tengas; sí estas dentro de lo legal cuenta conmigo no solo como un programador sino como un aliado, aquel que va a la guerra a tu lado y te protege hasta el final.
 
-Soy empático, amable y sobre todo cuando se trata de trabajar profesionalmente una persona fundamentada en la lealtad.
+## ¿Por Qué Colaborar Conmigo?
+No importa la escala o el ámbito de su negocio, siempre cuente conmigo como un aliado incondicional. Estoy en esto para ganar guerras tecnológicas a su lado, fortalecido por valores de empatía, lealtad y profesionalismo.
 
-> La zona de confort me asusta pero admiro a las personas que permanecen en ella.
+> “La complacencia es mi enemiga, pero respeto a aquellos que encuentran confort en ella.”
 
-Soy amante de las conversaciones técnicas, salir a caminar y tomar café por las mañanas.
+Soy un entusiasta de los debates técnicos. Estoy disponible para usted, desde las primeras horas de la mañana hasta las últimas horas de la noche, con respuestas prontas y precisas.
 
-No te preocupes si me escribes a las 6:00AM o a las 10:00PM siempre tengo una respuesta, sino es inmediata procuro que siempre sea rápida.
+## Lo Que Puede Esperar
+1. Innovación
+2. Creatividad 
+3. Iniciativa
+4. Soluciones Efectivas
 
-### Pero basta de hablar de mi, si trabajas conmigo espera esto:
-1. Apoyo 
-2. Creatividad
-3. Proactividad
-4. Soluciones
+## Expertise Técnico
+- **Desarrollo Web y Móvil**: Sólida formación académica y autodidacta
+- **Lenguajes**: Python, JavaScript, PHP, Dart, Kotlin
+- **Diseño de UI**: Prototipado, Animaciones, Micro-Interacciones
 
+## ¿Dónde Puedo Aportar Más Valor?
+- **Frameworks**: Sólo cuando son instrumentalmente efectivos.
+- **Backend**: El epicentro de la funcionalidad y el rendimiento.
+- **Seguridad**: Soy un hacker ético, impulsado por mejorar la seguridad desde dentro.
 
-### Mis bases de programación son Universitarias/Autodidactas:
-- Desarrollo web
-- Desarrollo Movil
+Por favor, no dude en ponerse en contacto conmigo en ***jose@joseamayadev.com*** para cualquier consulta o colaboración futura.
 
-### Con lenguajes de programación de alto nivel:
-- Python
-- Javascript 
-- PHP
-- Dart
-- Kotlin
+Atentamente,  
+![Perfil](https://res.cloudinary.com/www-ismyt-com/image/upload/v1628821040/IMAGENES/GITHUB/profile_qcrojr.png)  
+**José A. Amaya**
 
-### Y si eso no basta, me encanta el diseño de interfaces de usuario:
-- Prototipado
-- Animaciones
-- Micro-Interacciones
-
-### Tu eliges, donde quieres que te ayude
-
-Amo los **Frameworks** solo cuando ellos son mi mejor arma, de lo contrario amo hacer las cosas de 0.
-
-Me encanta el **Backend** porque es ahí donde las cuerdas se mueven para que las pinturas sean visibles lo entiendo, lo creo y no  le tengo temor.
-
-Soy un **Hacker**, no de los malos, mi ética y lealtad jamás será manchada con actos delictivos pero en mis proyectos trato de sacar mi peor instinto para romper mi propia seguridad. 
-
-> No confío en herramientas automatizadas yo confío en tu capacidad de no abrir correos que estén en la carpeta de spam.
-
-Este es mi correo profesional ***jose@joseamaya.tech***, si me escribes te aseguro que tendrás una respuesta.
-
-Atentamente, 
-<br>
-<br>
-![Perfil](https://res.cloudinary.com/www-ismyt-com/image/upload/v1628821040/IMAGENES/GITHUB/profile_qcrojr.png)<br>
-<strong style="color:#4E54FF;">José A. Amaya</strong>
-
-
-
+---
