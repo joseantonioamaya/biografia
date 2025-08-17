@@ -1,6 +1,6 @@
 <img width="2400" height="874" alt="image" src="https://github.com/user-attachments/assets/89517c5b-6e07-4576-8446-da9c6aff9093" />
 
-# José Antonio Amaya Fernánde
+# José Antonio Amaya Fernández
 Me gusta desarrollar software comercial que aumente la rentabilidad de las empresas
 
 ## Tecnologías y conocimiento (Avanzando)
