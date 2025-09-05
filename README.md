@@ -19,7 +19,7 @@ Me gusta desarrollar software comercial que aumente la rentabilidad de las empre
 - Desarrollo de Software Estrátegico
   - Es decir, desarollo pensando en el costo de implentación y mantenimiento
 ## Grado de educación 
-- Licenciado en Programación Y Sistemas por UMECIT
+- Licenciado en Programación Y Sistemas por Universidad Metropolitana de Ciencia, Educación y Tecnología
 ## Importante destacar
 En los últimos 6 años he inverido aproximádamente 2 horas al día en las siguientes tecnologías:
 - Angular
