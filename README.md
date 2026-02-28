@@ -17,7 +17,7 @@ Me gusta desarrollar software comercial que aumente la rentabilidad de las empre
 ## Habilidades importantes
 - Manejo de presupuesto técnologico
 - Desarrollo de Software Estrátegico
-  - Es decir, desarollo pensando en el costo de implentación y mantenimiento
+  - Es decir, desarollo pensando en el costo de implementación y mantenimiento
 ## Grado de educación 
 - Licenciado en Programación Y Sistemas por Universidad Metropolitana de Ciencia, Educación y Tecnología
 ## Importante destacar
